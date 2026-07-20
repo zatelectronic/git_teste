@@ -4,7 +4,7 @@
 
 ---
 
-## Índice
+## Índice.
 
 1. [Conceitos fundamentais](#1-conceitos-fundamentais)
 2. [Instalação e configuração inicial](#2-instalação-e-configuração-inicial)
